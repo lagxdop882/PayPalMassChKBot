@@ -28,7 +28,7 @@ def handle_start(message):
     name = message.from_user.first_name
     bot.edit_message_text(chat_id=message.chat.id,
                           message_id=sent_message.message_id,
-                          text=f"Hi {name}, Welcome To Toman Checker (paypal)",
+                          text=f"Hi {name}, Welcome To LAGXD Checker (paypal)",
                           reply_markup=mes)
 
 @bot.callback_query_handler(func=lambda call: call.data == 'start')

@@ -479,9 +479,9 @@ Card: XXXXXXXXXXXXXXXX|MM|YYYY|CVV</b>''',parse_mode="HTML")
 {str(dato(cc[:6]))}
 - - - - - - - - - - - - - - - - - - - - - - -
 [<a href="https://t.me/B">⌥</a>] 𝐓𝐢𝐦𝐞: <code>{execution_time:.2f}'s</code>
-[<a href="https://t.me/B">⌥</a>] 𝐂𝐡𝐞𝐜𝐤𝐞𝐝 𝐛𝐲: <a href='tg://user?id=8169349350'>Toman Check</a> []
+[<a href="https://t.me/B">⌥</a>] 𝐂𝐡𝐞𝐜𝐤𝐞𝐝 𝐛𝐲: <a href='tg://user?id=8169349350'>Lagxd Check</a> []
 - - - - - - - - - - - - - - - - - - - - - - -
-[<a href="https://t.me/B">⌤</a>] 𝐃𝐞𝐯 𝐛𝐲: <a href='tg://user?id=6052713305'>Mikey</a> - 🍀</strong>'''
+[<a href="https://t.me/B">⌤</a>] 𝐃𝐞𝐯 𝐛𝐲: <a href='tg://user?id=6052713305'>LAGXD</a> - 🍀</strong>'''
 
 	bot.edit_message_text(chat_id=message.chat.id, message_id=ko, text=msg, parse_mode="HTML")
 		
@@ -583,7 +583,7 @@ Dev! : @LAGXDISBACK''')
 [<a href="https://t.me/B">⌥</a>] 𝐓𝐢𝐦𝐞: <code>{execution_time:.2f}'s</code>
 [<a href="https://t.me/B">⌥</a>] 𝐂𝐡𝐞𝐜𝐤𝐞𝐝 𝐛𝐲: <a href='tg://user?id=8169349350'>Toman Check</a> []
 - - - - - - - - - - - - - - - - - - - - - - -
-[<a href="https://t.me/B">⌤</a>] 𝐃𝐞𝐯 𝐛𝐲: <a href='tg://user?id=6052713305'>Mikey</a> - 🍀</strong>'''
+[<a href="https://t.me/B">⌤</a>] 𝐃𝐞𝐯 𝐛𝐲: <a href='tg://user?id=6052713305'>LAGXD</a> - 🍀</strong>'''
 
 					if 'CHARGE 1.00$' in last or 'INSUFFICIENT_FUNDS' in last:
 						passs += 1
